@@ -1,0 +1,26 @@
+{
+  "name": "restfullapisuite",
+  "version": "1.0.0",
+  "description": "Tugas dari bootcamp AfterOffice - API Automation Advance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezaparamarta/restfullApiSuite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rezaparamarta/restfullApiSuite/issues"
+  },
+  "homepage": "https://github.com/rezaparamarta/restfullApiSuite#readme",
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.1.0",
+    "supertest": "^7.1.0"
+  }
+}

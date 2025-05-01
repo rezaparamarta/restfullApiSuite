@@ -1,0 +1,11 @@
+{
+    "firstname" : "Reza",
+    "lastname" : "Paramarta",
+    "totalprice" : 212,
+    "depositpaid" : false,
+    "bookingdates" : {
+        "checkin" : "2018-01-01",
+        "checkout" : "2019-01-01"
+    },
+    "additionalneeds" : "Breakfast"
+}
