@@ -34,7 +34,7 @@ describe('TUGAS 2 - API Automation E2E Suite', function () {
         token = loginResponse.body.token;
         expect(token).to.be.exist;
         expect(token).to.be.a('string');
-        console.log('🔑 Token:', token);
+        console.log('Token:', token);
     });
 
     // Hook sebelum setiap test case dimulai
